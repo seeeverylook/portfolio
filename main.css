@@ -1,0 +1,36 @@
+:root {
+  --background-color-main: #FFFFFF;
+  --card-color-main: #1f75fe;
+  --font-color-main: #FFFFFF;
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--background-color-main);
+}
+
+body,
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  width: 640px;
+  height: 320px;
+  background: var(--card-color-main);
+}
+
+.card__title {
+  font-family: "Times New Roman";
+  color: var(--font-color-main);
+  letter-spacing: -10%;
+  font-weight: 500;
+  font-size: 154px;
+}
