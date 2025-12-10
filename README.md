@@ -5,7 +5,10 @@ A minimal portfolio website built with HTML, CSS.
 ![Portfolio Screenshot](screenshot.png)
 
 ## 🚀 Live Demo
-Check it out here: [https://seeeverylook.github.io/portfolio/](https://seeeverylook.github.io/portfolio/)
+https://seeeverylook.github.io/portfolio/
+
+## 🎨 Figma Design
+https://www.figma.com/design/pdtQxJ7Iv1ESROhwB84h7x/Portfolio?node-id=0-1&t=HqS3YENi81yRDl2U-1
 
 ## Getting Started
 
