@@ -24,8 +24,8 @@
   --text-size: 18px;
   --text-weight: 500;
 
-  --text-letter-spacing: -5%;
-  --text-letter-wide-spacing: 80%;
+  --text-letter-spacing: -0.05em;
+  --text-letter-wide-spacing: 0.8em;
 }
 
 *,
